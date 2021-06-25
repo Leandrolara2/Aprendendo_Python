@@ -10,7 +10,7 @@ if c > 10:
 d = int(input('Quarto bimestre: '))
 if d > 10:
     d = int(input('Voce digitou errado. Quarto bimestre: '))
-#
+
 # media = (a + b + c + d) / 4
 # print('media {}'.format(media))
 # media = (a + b + c + d) /4
